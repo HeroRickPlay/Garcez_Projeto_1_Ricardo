@@ -1,0 +1,51 @@
+.b1 {
+   color: green; 
+
+   border-color: dimgray;
+   border-width: 6px;
+   border-style: double;
+
+   margin: 0%;
+   padding: 0%;
+   margin-right: 81%;
+   margin-bottom: 20%;    
+}
+
+.b2 {
+   color: blue;
+   
+   border-color: dimgrey;
+   border-width: 6px;
+   border-style: double;
+
+   margin: 0%;
+   padding: 0%;
+   margin-right: 80%;
+   margin-bottom: 0%;    
+}
+
+.b3 {
+   color: red;
+   
+   border-color: dimgrey;
+   border-width: 6px;
+   border-style: double;
+
+   margin: 0%;
+   padding: 0%;
+   margin-left: 74%;
+   margin-bottom: 20%;  
+}
+
+.b4 {
+   color: gold; 
+   
+   border-color: dimgrey;
+   border-width: 6px;
+   border-style: double;
+
+   margin: 0%;
+   padding: 0%;
+   margin-left: 82%;
+   margin-bottom: 0%;
+}
